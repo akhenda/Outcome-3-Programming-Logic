@@ -6,4 +6,3 @@ def fibonacci(n):
 		a,b = b,a+b
 		output.append(a)
 	return output
-print fibonacci(10)
